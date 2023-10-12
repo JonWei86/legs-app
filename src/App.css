@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+
+.text-stroke-title {
+  -webkit-text-stroke: 4px #282c34;
+}
+
+.text-stroke-body {
+  -webkit-text-stroke: 2px #282c34;
+}
